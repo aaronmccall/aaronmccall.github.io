@@ -1,6 +1,5 @@
 ---
 title: Drinks!
-layout: template
 filename: drinks.md
 ---
 
