@@ -8,7 +8,7 @@ published: true
 
 - [Backin' Black](#backin-black)
 - [Basic B\*tch](#basic-btch)[\*](#acknowledgements)
-- [A Clockwork Raspberry](#a-clockwork-raspberry)
+- [Clockwork Raspberry](#clockwork-raspberry)
 - [Crancy Pants](#crancy-pants)
 - [Flores del Nuevomundo](#flores-del-nuevomundo)
 - [Golden Ass](#golden-ass)
@@ -64,7 +64,27 @@ published: true
   
   Combine nog and milk and heat to 160º. Add liqueur and stir to combine. Enjoy!
 
-## Clockwork Raspberry
+## Clockwork Raspberry: Ultra-delicious Raspberry Liqueur
+
+- **The Lady Bides her Thyme**
+  - 1oz limoncello
+  - 0.5oz blue curaçao
+  - 0.5oz Clockwork Raspberry
+  
+  Pre-chill and carefully layer in the order listed in a tall shot glass.
+
+- **Ricky Don't Lose My Tonic**
+  - 2oz gin (a citrus-forward gin would be excellent)
+  - 1oz Clockwork Raspberry
+  - 0.5oz lime juice
+  - 1 dash orange bitters
+  - 1 drop 20% saline
+  - 6oz lime seltzer
+  - 3.4oz (half bottle) Fever-Tree tonic
+  
+  Shake all but seltzer and tonic with ice and strain into a large tumbler 2/3 full of ice. Add seltzer and tonic. Variation: replace the lime seltzer and tonic with grapefruit seltzer. Makes a great summer sipper by the pool!
+  
+
 ## Crancy Pants
 ## Flores del Nuevomundo
 ## Golden Ass
