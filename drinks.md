@@ -6,9 +6,9 @@ published: true
 
 # Drinks, Libations, and damn good cocktails
 
-- [Backin' Black](#backin-black)
-- [Basic B\*tch](#basic-btch)[\*](#acknowledgements)
-- [Clockwork Raspberry](#clockwork-raspberry)
+- [Backin' Black](#backin-black-bespoke-blackberry-liqueur)
+- [Basic B\*tch](#basic-b-tch-handcrafted-pumpkin-spice-liqueur)[\*](#acknowledgements)
+- [Clockwork Raspberry](#clockwork-raspberry-ultra-delicious-raspberry-liqueur)
 - [Crancy Pants](#crancy-pants)
 - [Flores del Nuevomundo](#flores-del-nuevomundo)
 - [Golden Ass](#golden-ass)
@@ -43,7 +43,7 @@ published: true
   - 4-6oz ginger beer (Fever Tree or Reed's Strongest are my faves)
   - ice cubes
   
-  Add 3-4 ice cubes to your favorit copper mug. Pour lime juice, Backin' Black, and vodka over the ice. Stir to chill. Add the ginger beer and gently stir just enough to combine. Enjoy!
+  Add 3-4 ice cubes to your favorite copper mug. Pour lime juice, Backin' Black, and vodka over the ice. Stir to chill. Add the ginger beer and gently stir just enough to combine. Enjoy!
   
 ## Basic B\*tch: Handcrafted Pumpkin Spice Liqueur
 
