@@ -9,14 +9,14 @@ published: true
 - [Backin' Black](#backin-black-bespoke-blackberry-liqueur)
 - [Basic B\*tch](#basic-btch-handcrafted-pumpkin-spice-liqueur)[\*](#acknowledgements)
 - [Clockwork Raspberry](#clockwork-raspberry-ultra-delicious-raspberry-liqueur)
-- [Crancy Pants](#crancy-pants)
-- [Flores del Nuevomundo](#flores-del-nuevomundo)
-- [Golden Ass](#golden-ass)
-- [Lord Bluebear's](#lord-bluebears)
-- [Midsummer Gin Dream](#middsummer-gin-dream)
-- [Murder of Chocolate](#murder-of-chocolate)
-- [Thai One On](#thai-one-on)
-- [Ya Mocha My Weekend](#ya-mocha-my-weekend)
+- [Crancy Pants](#crancy-pants-luxury-cranberry-liqueur)
+- [Flores del Nuevomundo](#flores-del-nuevomundo-delightfully-tropical-tequila-liqueur)
+- [Golden Ass](#golden-ass-life-changing-ginger-turmeric-liqueur)
+- [Lord Bluebear's](#lord-bluebears-resplendent-blueberry-liqueur)
+- [Midsummer Gin Dream](#midsummer-gin-dream-ethereal-strawberry-rhubarb-gin)
+- [Murder of Chocolate](#murder-of-chocolate-deathly-delicious-chocolate-liqueur)
+- [Thai One On](#thai-one-on-tropical-tea-liqueur)
+- [Ya Mocha My Weekend](#ya-mocha-my-weekend-stimulating-mocha-liqueur)
 
 ## Backin' Black: Bespoke blackberry liqueur
 
@@ -74,7 +74,7 @@ published: true
   Pre-chill and carefully layer in the order listed in a tall shot glass.
 
 - **Ricky Don't Lose My Tonic**
-  - 2oz gin (a citrus-forward gin would be excellent)
+  - 2oz gin (a citrus-forward gin is excellent, as is a London dry)
   - 1oz Clockwork Raspberry
   - 0.5oz lime juice
   - 1 dash orange bitters
@@ -86,6 +86,20 @@ published: true
   
 
 ## Crancy Pants: Luxury Cranberry Liqueur
+
+- **Crancypolitan**
+  - 1.5oz Vodka (Solar Spirits' Eclipse really shines in this one)
+  - 1.5oz Crancy Pants
+  - 1/2oz lime juice
+    
+  Shake with ice until well chilled. Pour into a coupé or martini glass. Revel in your fanciness!
+
+- **Poinsettia Royale**
+  - 1.5oz Crancy Pants
+  - 4oz Champagne, Prosecco, Cava, Moscato d'Asti
+  
+  Pour Crancy Pants into a chilled champagne flute. Top with 4oz sparkling wine.
+
 ## Flores del Nuevomundo: Delightfully Tropical Tequila Liqueur
 ## Golden Ass: Life-changing Ginger Turmeric Liqueur
 ## Lord Bluebear's: Resplendent Blueberry Liqueur
