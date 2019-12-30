@@ -7,7 +7,7 @@ published: true
 # Drinks, Libations, and damn good cocktails
 
 - [Backin' Black](#backin-black-bespoke-blackberry-liqueur)
-- [Basic B\*tch](#basic-b-tch-handcrafted-pumpkin-spice-liqueur)[\*](#acknowledgements)
+- [Basic B\*tch](#basic-btch-handcrafted-pumpkin-spice-liqueur)[\*](#acknowledgements)
 - [Clockwork Raspberry](#clockwork-raspberry-ultra-delicious-raspberry-liqueur)
 - [Crancy Pants](#crancy-pants)
 - [Flores del Nuevomundo](#flores-del-nuevomundo)
@@ -85,14 +85,14 @@ published: true
   Shake all but seltzer and tonic with ice and strain into a large tumbler 2/3 full of ice. Add seltzer and tonic. Variation: replace the lime seltzer and tonic with grapefruit seltzer. Makes a great summer sipper by the pool!
   
 
-## Crancy Pants
-## Flores del Nuevomundo
-## Golden Ass
-## Lord Bluebear's
-## Midsummer Gin Dream
-## Murder of Chocolate
-## Thai One On
-## Ya Mocha My Weekend
+## Crancy Pants: Luxury Cranberry Liqueur
+## Flores del Nuevomundo: Delightfully Tropical Tequila Liqueur
+## Golden Ass: Life-changing Ginger Turmeric Liqueur
+## Lord Bluebear's: Resplendent Blueberry Liqueur
+## Midsummer Gin Dream: Ethereal Strawberry Rhubarb Gin
+## Murder of Chocolate: Deathly Delicious Chocolate Liqueur
+## Thai One On: Tropical Tea Liqueur
+## Ya Mocha My Weekend: Stimulating Mocha Liqueur
 
 ## Acknowledgements
 
