@@ -40,7 +40,7 @@ published: true
   - 1.5oz vodka (I recommend Solar Spirits Eclipse or Tito's if you can't find it)
   - 1oz Backin' Black
   - 0.5oz fresh-squeezed lime juice
-  - 4-6oz ginger beer (Fever Tree or Reed's Strongest are my faves)
+  - 4-6oz ginger beer (Fever-Tree or Reed's Strongest are my faves)
   - ice cubes
   
   Add 3-4 ice cubes to your favorite copper mug. Pour lime juice, Backin' Black, and vodka over the ice. Stir to chill. Add the ginger beer and gently stir just enough to combine. Enjoy!
@@ -105,15 +105,15 @@ published: true
 - **La Reina de las Margaritas**
   - 2oz joven or reposado tequila
   - 1oz Flores del Nuevomundo
-  - 1oz fresh squeezed lime juice
+  - 1oz fresh-squeezed lime juice
   
   Add all ingredients to a shaker with ice and shake until well-chilled. Double-strain into a salt-rimmed martini glass.
   
 - **Paloma Rosa**
   - 1.5oz joven (or silver) tequila
   - 1oz Flores del Nuevomundo
-  - 1oz fresh squeezed grapefruit juice (optional, but worth it!)
-  - 1/2oz fresh squeezed lime juice
+  - 1oz fresh-squeezed grapefruit juice (optional, but worth it!)
+  - 1/2oz fresh-squeezed lime juice
   - 4-5oz grapefruit soda (4oz if you used grapefruit juice, otherwise 5)
   
   Fill a collins glass 2/3 full of ice. Add all but soda and stir until chilled and well combined. Top with soda. Enjoy your rose-colored glass of heaven!
@@ -123,17 +123,64 @@ published: true
   - **Ass-Kicking Mule**
     - 1.5oz vodka
     - 0.5oz Golden Ass
-    - 0.5oz fresh squeezed lime juice
-    - 3-4oz ginger beer (Fever Tree or Reed's Strongest are my faves)
+    - 0.5oz fresh-squeezed lime juice
+    - 3-4oz ginger beer (Fever-Tree or Reed's Strongest are my faves)
+  
+   Pour the first three ingredients over ice and stir until chilled and combined, then pour in the ginger beer. Enjoy!
     
   - **Bedtimer**
     - 1 cup of your favorite chamomile tea
     - 1oz Golden Ass
     
-    Steep a cup of your favorite chamomile tea, leaving room to add an ounce of Golden Ass. Let the lovely result soothe the day's cares away!
+  Steep a cup of your favorite chamomile tea, leaving room to add an ounce of Golden Ass. Let the lovely result soothe the day's cares away!
 
-## Lord Bluebear's: Resplendent Blueberry Liqueur
+## Lord Bluebear's Resplendent Blueberry Liqueur
+
+  - **Myrtillini**
+  - 2oz chilled peach puree (put peaches in a blender——no nectar, please!)
+  - 1oz Lord Bluebear's
+  - 4oz Prosecco
+  
+  Pour ingredients into champagne flute in the order listed. Simple, easy, mind-blowingly delicious!
+  
+  - **Bear's Knees**
+    - 1.5oz gin
+    - 0.5oz Lord Bluebear
+    - 0.75oz fresh-squeezed lemon juice
+    - 0.5oz honey syrup (honey and water 1:1)
+    
+    Add all four ingredients to a shaker with ice and shake until well-chilled. Double-strain into a coupé or martini glass. Put out your pinky and bask in the splendour!
+  
 ## Midsummer Gin Dream: Ethereal Strawberry Rhubarb Gin
+
+  - **Puck's Punch**
+    - 1.5oz Midsummer Gin Dream
+    - 0.5oz lemon juice
+    - 0.5oz tangerine juice
+    - 0.5oz simple syrup
+    - 6oz lime seltzer
+    
+    Fill a collins glass 2/3 full of ice, add all but seltzer and stir until well combined and chilled. Top with seltzer.
+    
+  - **Changeling's Gland**
+	- 2oz Midsummer Gin Dream
+    - 1oz mandarin juice
+    - 1oz orange juice
+    - 0.25oz grenadine
+    - splash of absinthe
+    
+    Rinse cocktail glass with absinthe, pouring out the excess. (If you don't have any absinthe, you can use a dash of tarragon bitters or muddle tarragon and mint leaves with the grenadine before adding the rest of the ingredients.) Add remaining ingredients to shaker cup, add ice, and shake until well-chilled. Double strain into a coupé or martini glass
+    
+  - **Titania's Tonic**
+  	- 2oz Midsummer Gin Dream
+    - 0.5oz fresh-squeezed lime juice
+    - 5 wild strawberries (or other small, flavorful strawberries)
+    - 1tsp sugar
+    - 3.4oz tonic (Fever-Tree aromatic would work especially well here, but any top-shelf tonic will do)
+    
+    Muddle the strawberries with the lime juice and sugar in a cocktail shaker. Add the gin and fill the shaker 2/3 full of ice. Shake until well-chilled and double-strain into an ice-filled highball glass. Top with tonic.
+    
+
 ## Murder of Chocolate: Deathly Delicious Chocolate Liqueur
 ## Thai One On: Tropical Tea Liqueur
 ## Ya Mocha My Weekend: Stimulating Mocha Liqueur
