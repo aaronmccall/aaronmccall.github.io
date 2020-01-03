@@ -101,7 +101,37 @@ published: true
   Pour Crancy Pants into a chilled champagne flute. Top with 4oz sparkling wine.
 
 ## Flores del Nuevomundo: Delightfully Tropical Tequila Liqueur
+
+- **La Reina de las Margaritas**
+  - 2oz joven or reposado tequila
+  - 1oz Flores del Nuevomundo
+  - 1oz fresh squeezed lime juice
+  
+  Add all ingredients to a shaker with ice and shake until well-chilled. Double-strain into a salt-rimmed martini glass.
+  
+- **Paloma Rosa**
+  - 1.5oz joven (or silver) tequila
+  - 1oz Flores del Nuevomundo
+  - 1oz fresh squeezed grapefruit juice (optional, but worth it!)
+  - 1/2oz fresh squeezed lime juice
+  - 4-5oz grapefruit soda (4oz if you used grapefruit juice, otherwise 5)
+  
+  Fill a collins glass 2/3 full of ice. Add all but soda and stir until chilled and well combined. Top with soda. Enjoy your rose-colored glass of heaven!
+
 ## Golden Ass: Life-changing Ginger Turmeric Liqueur
+
+  - **Ass-Kicking Mule**
+    - 1.5oz vodka
+    - 0.5oz Golden Ass
+    - 0.5oz fresh squeezed lime juice
+    - 3-4oz ginger beer (Fever Tree or Reed's Strongest are my faves)
+    
+  - **Bedtimer**
+    - 1 cup of your favorite chamomile tea
+    - 1oz Golden Ass
+    
+    Steep a cup of your favorite chamomile tea, leaving room to add an ounce of Golden Ass. Let the lovely result soothe the day's cares away!
+
 ## Lord Bluebear's: Resplendent Blueberry Liqueur
 ## Midsummer Gin Dream: Ethereal Strawberry Rhubarb Gin
 ## Murder of Chocolate: Deathly Delicious Chocolate Liqueur
