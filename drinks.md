@@ -228,6 +228,35 @@ published: true
 ⠀
 
 ## Ya Mocha My Weekend: Stimulating Mocha Liqueur
+  - **The Classic**
+    - 1 mug of your favorite cocoa with room
+    - 1 1/2 oz Ya Mocha My Weekend
+
+    Add liqueur to cocoa. Stir. Smile and sip, boys (girls, etc.). Smile and sip.
+
+  - **Black Velvet Russian**
+    - 1 1/2 oz fine vodka
+    - 3/4 oz Ya Mocha My Weekend
+    - bar spoon velvet falernum
+
+    Add all ingredients to an Old Fashioned glass about 1/3 full of ice. Stir until combined. Sip while you catch up on international affairs or _The Affair_.
+
+  - **Long Weekend Ice Tea**
+  
+    _Imagine a Dirty Black Russian and a Long Island Ice Tea had a baby. Now, imagine he's all grown up and a tall, cool drink of (fire) water._
+    - 1/2 oz Vodka
+    - 1/2 oz White rum
+    - 1/2 oz Silver tequila
+    - 1/2 oz Gin
+    - 1/2 oz Ya Mocha My Weekend
+    - 1/2 oz Simple syrup
+    - 1/2 oz fresh mandarin juice
+    - 1/2 oz fresh lemon juice
+    - Cola, to top
+
+    Add all ingredients except the cola into a Collins glass with ice. 
+    Top with a splash of the cola and stir briefly. 
+    Garnish with a twist of mandarin peel. Serve with a straw.
 
 ## Acknowledgements
 
