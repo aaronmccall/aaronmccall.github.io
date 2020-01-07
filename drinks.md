@@ -209,8 +209,9 @@ published: true
     - 1 dash Peychaud bitters
     - 4 drops makrut (kaffir) lime leaf extract
     - 1 drop 20% saline
-    - 2-3oz orange vanilla seltzer (Simple Truth Organic and Polar make excellent options)
-  ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    - 2-3oz orange vanilla seltzer (Simple Truth Organic and Polar make excellent options.)
+⠀
+
     Shake all but seltzer with ice for 8-10 seconds. Double-strain into martini glass and top with seltzer.
 
   - **Chiang Mai Mule**
