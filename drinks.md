@@ -103,14 +103,14 @@ published: true
 ## Flores del Nuevomundo: Delightfully Tropical Tequila Liqueur
 
 - **La Reina de las Margaritas**
-  - 2 oz joven or reposado tequila
+  - 2 oz joven (silver) or reposado tequila
   - 1 oz Flores del Nuevomundo
   - 1 oz fresh-squeezed lime juice
   
   Add all ingredients to a shaker with ice and shake until well-chilled. Double-strain into a salt-rimmed martini glass.
   
 - **Paloma Rosa**
-  - 1 1/2 oz joven (or silver) tequila
+  - 1 1/2 oz joven (silver) tequila
   - 1 oz Flores del Nuevomundo
   - 1 oz fresh-squeezed grapefruit juice (optional, but worth it!)
   - 1/2 oz fresh-squeezed lime juice
@@ -126,20 +126,20 @@ published: true
     - 1/2 oz fresh-squeezed lime juice
     - 3-4 oz ginger beer (Fever-Tree or Reed's Strongest are my faves)
   
-   Pour the first three ingredients over ice and stir until chilled and combined, then pour in the ginger beer. Enjoy!
+    Pour the first three ingredients over ice and stir until chilled and combined, then pour in the ginger beer. Enjoy!
     
   - **Bedtimer**
     - 1 cup of your favorite chamomile tea
     - 1 oz Golden Ass
     
-  Steep a cup of your favorite chamomile tea, leaving room to add an ounce of Golden Ass. Let the lovely result soothe the day's cares away!
+    Steep a cup of your favorite chamomile tea, leaving room to add an ounce of Golden Ass. Let the lovely result soothe the day's cares away!
 
 ## Lord Bluebear's Resplendent Blueberry Liqueur
 
   - **Myrtillini**
-  - 2 oz chilled peach puree (put peaches in a blender——no nectar, please!)
-  - 1 oz Lord Bluebear's
-  - 4 oz Prosecco
+    - 2 oz chilled peach puree (put peaches in a blender——no nectar, please!)
+    - 1 oz Lord Bluebear's
+    - 4 oz Prosecco
   
   Pour ingredients into champagne flute in the order listed. Simple, easy, mind-blowingly delicious!
   
@@ -163,7 +163,7 @@ published: true
     Fill a collins glass 2/3 full of ice, add all but seltzer and stir until well combined and chilled. Top with seltzer.
     
   - **Changeling's Gland**
-	- 2 oz Midsummer Gin Dream
+	  - 2 oz Midsummer Gin Dream
     - 1 oz mandarin juice
     - 1 oz orange juice
     - 1/4 oz grenadine
@@ -182,12 +182,10 @@ published: true
     
 
 ## Murder of Chocolate: Deathly Delicious Chocolate Liqueur
-  
-  _aka MoC_
 
   - **Good Ol' Fashioned Murder**
     - 2 oz Ron Abuelo 7 year or other bourbon barrel aged rum (at least 5 year)
-    - 1/4 oz MoC
+    - 1/4 oz Murder of Chocolate
     - 2 dashes angostura orange bitters
 
     Add all ingredients to Old Fashioned glass. Add a large ice cube/sphere/chunk. Stir until combined. Garnish with an orange twist impaled by a small dagger or ice pick.
@@ -195,7 +193,7 @@ published: true
   - **Bleeding Heartini**
     - 1 oz citrus or sweet spice forward gin (Tanqueray Rangpur, Aviation, Sipsmith Lemon Drizzle, Nolet's Silver)
     - 1 oz fine vodka (Solar Spirits' Eclipse is my go-to)
-    - 1 oz MoC
+    - 1 oz Murder of Chocolate
     - 1/2 oz raspberry liqueur (Clockwork Raspberry works well here) or syrup
     - 1 ripe raspberry
 
@@ -204,6 +202,31 @@ published: true
     Sip slowly. Feel free to cry a little, if it makes you feel better.
 
 ## Thai One On: Tropical Tea Liqueur
+  - **Bangkok Dreamsicle**
+    - 1 1/2 oz fine vodka (Tito's is good, Eclipse is better)
+    - 1 1/2 oz Thai One On
+    - 1/2 oz top-shelf orange liqueur (a good arancello is an excellent alternative, triple sec a last resort)
+    - 1 dash Peychaud bitters
+    - 4 drops makrut (kaffir) lime leaf extract
+    - 1 drop 20% saline
+    - 2-3oz orange vanilla seltzer (Simple Truth Organic and Polar make excellent options)
+  ⠀⠀⠀⠀⠀⠀⠀⠀⠀
+    Shake all but seltzer with ice for 8-10 seconds. Double-strain into martini glass and top with seltzer.
+
+  - **Chiang Mai Mule**
+    - 1 oz Thai rum (SangSom or Mekhong would be good here) or other mild rum
+    - 1 oz Thai One On
+    - 1 oz Golden Ass ginger turmeric liqueur
+    - 3/4 oz fresh lime juice
+    - 3-4 thai basil leaves
+    - 1-2 makrut lime leaves
+    - 4-5 oz lime or plain seltzer
+
+    Add lime juice, basil, and lime leaves to cocktail shaker and muddle thoroughly. Add gin, liqueurs, and fill 2/3 full with ice. Shake until chilled.
+    Double-strain into a Collins glass (or a red wine glass if you're feeling fancy) and top with seltzer.
+    Enjoy with some Miang Kham and imagine for a while that you're in paradise!
+⠀
+
 ## Ya Mocha My Weekend: Stimulating Mocha Liqueur
 
 ## Acknowledgements
