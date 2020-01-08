@@ -252,7 +252,7 @@ published: true
 
   - **Black Velvet Russian**
 
-    _Is there anything that velvet doesn't make better? If there is, this isn't it._
+    _Is there anything that velvet doesn't make better? If so, this isn't it._
     - 1 1/2 oz fine vodka
     - 3/4 oz Ya Mocha My Weekend
     - bar spoon velvet falernum
